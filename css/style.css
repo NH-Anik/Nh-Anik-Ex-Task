@@ -103,6 +103,7 @@ nav{
     outline: none;
     color: #d1cece;
     font-size: 18px;
+    width: 400px;
 }
 .search-full button{
     background: transparent;
